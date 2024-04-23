@@ -33,6 +33,8 @@ RubiAI is developed as part of PQAR (Plex Quantum and Atomic Research). It lever
 
 To use RubiAI, follow these steps: (Python 3.12 and PIP are needed)
 
+**THIS INSTALLATION DOESN'T WORK CURRENTLY AND IS DEPRECATED! PLEASE CHECK BACK SOON**
+
 1. Clone the repository:
 
     ```bash
@@ -57,6 +59,8 @@ To use RubiAI, follow these steps: (Python 3.12 and PIP are needed)
    ```
 
 5. Import your files and run RubiAI.py with your prompt.
+
+**THIS INSTALLATION DOESN'T WORK CURRENTLY AND IS DEPRECATED! PLEASE CHECK BACK SOON**
 
 ## Usage
 
