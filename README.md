@@ -1,3 +1,6 @@
+[![GitHub issues](https://img.shields.io/github/issues/CaptioDev/RubiAI)](https://github.com/CaptioDev/RubiAI/issues)
+
+
 # RubiAI
 
 RubiAI is a natural language processing model trained on the GPT-2 architecture. It can generate human-like text based on the input it receives.
