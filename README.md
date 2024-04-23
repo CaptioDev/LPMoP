@@ -80,7 +80,7 @@ and contact us for any other questions you might have at: pqar.contact@gmail.com
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+LPMoP © 2024 by PQAR is licensed under CC BY-SA 4.0 - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
