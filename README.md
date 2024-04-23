@@ -1,27 +1,28 @@
-[![GitHub issues](https://img.shields.io/github/issues/CaptioDev/RubiAI)](https://github.com/CaptioDev/RubiAI/issues)
-[![GitHub stars](https://img.shields.io/github/stars/CaptioDev/RubiAI)](https://github.com/CaptioDev/RubiAI/stargazers)
-[![GitHub license](https://img.shields.io/github/license/CaptioDev/RubiAI)](https://github.com/CaptioDev/RubiAI/blob/main/LICENSE)
-[![Code size](https://img.shields.io/github/languages/code-size/CaptioDev/RubiAI)](https://github.com/CaptioDev/RubiAI)
-[![Last commit](https://img.shields.io/github/last-commit/CaptioDev/RubiAI)](https://github.com/CaptioDev/RubiAI/commits/main)
-[![Contributors](https://img.shields.io/github/contributors/CaptioDev/RubiAI)](https://github.com/CaptioDev/RubiAI/graphs/contributors)
-[![Releases](https://img.shields.io/github/v/release/CaptioDev/RubiAI)](https://github.com/CaptioDev/RubiAI/releases)
-[![Closed issues](https://img.shields.io/github/issues-closed/CaptioDev/RubiAI)](https://github.com/CaptioDev/RubiAI/issues?q=is%3Aissue+is%3Aclosed)
-[![Open pull requests](https://img.shields.io/github/issues-pr/CaptioDev/RubiAI)](https://github.com/CaptioDev/RubiAI/pulls)
-[![Python version](https://img.shields.io/pypi/pyversions/CaptioDev/RubiAI)](https://github.com/CaptioDev/RubiAI)
-[![Downloads](https://img.shields.io/github/downloads/CaptioDev/RubiAI/total)](https://github.com/CaptioDev/RubiAI)
-[![Watchers](https://img.shields.io/github/watchers/CaptioDev/RubiAI)](https://github.com/CaptioDev/RubiAI/watchers)
-[![Release date](https://img.shields.io/github/release-date/CaptioDev/RubiAI)](https://github.com/CaptioDev/RubiAI/releases)
+[![GitHub issues](https://img.shields.io/github/issues/CaptioDev/LPMoP)](https://github.com/CaptioDev/LPMoP/issues)
+[![GitHub stars](https://img.shields.io/github/stars/CaptioDev/LPMoP)](https://github.com/CaptioDev/LPMoP/stargazers)
+[![GitHub license](https://img.shields.io/github/license/CaptioDev/LPMoP)](https://github.com/CaptioDev/LPMoP/blob/main/LICENSE)
+[![Code size](https://img.shields.io/github/languages/code-size/CaptioDev/LPMoP)](https://github.com/CaptioDev/LPMoP)
+[![Last commit](https://img.shields.io/github/last-commit/CaptioDev/LPMoP)](https://github.com/CaptioDev/LPMoP/commits/main)
+[![Contributors](https://img.shields.io/github/contributors/CaptioDev/LPMoP)](https://github.com/CaptioDev/LPMoP/graphs/contributors)
+[![Releases](https://img.shields.io/github/v/release/CaptioDev/LPMoP)](https://github.com/CaptioDev/LPMoP/releases)
+[![Closed issues](https://img.shields.io/github/issues-closed/CaptioDev/LPMoP)](https://github.com/CaptioDev/LPMoP/issues?q=is%3Aissue+is%3Aclosed)
+[![Open pull requests](https://img.shields.io/github/issues-pr/CaptioDev/LPMoP)](https://github.com/CaptioDev/LPMoP/pulls)
+[![Python version](https://img.shields.io/pypi/pyversions/CaptioDev/LPMoP)](https://github.com/CaptioDev/LPMoP)
+[![Downloads](https://img.shields.io/github/downloads/CaptioDev/LPMoP/total)](https://github.com/CaptioDev/LPMoP)
+[![Watchers](https://img.shields.io/github/watchers/CaptioDev/LPMoP)](https://github.com/CaptioDev/LPMoP/watchers)
+[![Release date](https://img.shields.io/github/release-date/CaptioDev/LPMoP)](https://github.com/CaptioDev/LPMoP/releases)
 
 
 
+# LPMoP
 
-# RubiAI
+(LPMoP stands for Language Proecessing Model of PQAR (Plex Quantum-Atomic Research))
 
-RubiAI is a natural language processing model trained on the GPT-2 architecture. It can generate human-like text based on the input it receives.
+LPMoP is a natural language processing model trained on the GPT-2 architecture of AI (artificial intelligence). It can generate human-like text based on the input it receives. LPMoP can also be reffered to as simply 'LPM'.
 
 ## About
 
-RubiAI is developed as part of PQAR (Plex Quantum and Atomic Research). It leverages the power of the GPT-2 model to generate text that mimics human-like responses and conversations.
+LPMoP is developed as part of PQAR (Plex Quantum-Atomic Research). It leverages the power of the GPT-2 model to generate text that mimics human-like responses and conversations.
 
 ## Features
 
@@ -31,14 +32,14 @@ RubiAI is developed as part of PQAR (Plex Quantum and Atomic Research). It lever
 
 ## Installation
 
-To use RubiAI, follow these steps: (Python 3.12 and PIP are needed)
+To use LPMoP, follow these steps: (Python 3.12 and PIP are needed)
 
 **THIS INSTALLATION DOESN'T WORK CURRENTLY AND IS DEPRECATED! PLEASE CHECK BACK SOON**
 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/CaptioDev/RubiAI.git
+    git clone https://github.com/CaptioDev/LPMoP.git
     ```
 
 2. Install the required dependencies:
@@ -58,23 +59,23 @@ To use RubiAI, follow these steps: (Python 3.12 and PIP are needed)
    jupyter notebook
    ```
 
-5. Import your files and run RubiAI.py with your prompt.
+5. Import your files and run LPMoP.py with your prompt.
 
 **THIS INSTALLATION DOESN'T WORK CURRENTLY AND IS DEPRECATED! PLEASE CHECK BACK SOON**
 
 ## Usage
 
-RubiAI can be used for various purposes such as:
+LPMoP can be used for various purposes such as:
 
 - Generating text for creative writing projects.
 - Assisting in content generation for social media or blogs.
 - Providing automated responses in chatbots or virtual assistants.
 
-To generate text, simply provide RubiAI with a prompt and it will generate a response based on its training.
+To generate text, simply provide LPMoP with a prompt and it will generate a response based on its training.
 
 ## Contributing
 
-If you'd like to contribute to RubiAI, feel free to fork the repository and submit a pull request with your changes. Please adhere to our license,
+If you'd like to contribute to LPMoP, feel free to fork the repository and submit a pull request with your changes. Please adhere to our license,
 and contact us for any other questions you might have at: pqar.contact@gmail.com.
 
 ## License
