@@ -4,16 +4,14 @@
 [![Code size](https://img.shields.io/github/languages/code-size/CaptioDev/RubiAI)](https://github.com/CaptioDev/RubiAI)
 [![Last commit](https://img.shields.io/github/last-commit/CaptioDev/RubiAI)](https://github.com/CaptioDev/RubiAI/commits/main)
 [![Contributors](https://img.shields.io/github/contributors/CaptioDev/RubiAI)](https://github.com/CaptioDev/RubiAI/graphs/contributors)
-[![Forks](https://img.shields.io/github/forks/CaptioDev/RubiAI)](https://github.com/CaptioDev/RubiAI/network/members)
 [![Releases](https://img.shields.io/github/v/release/CaptioDev/RubiAI)](https://github.com/CaptioDev/RubiAI/releases)
 [![Closed issues](https://img.shields.io/github/issues-closed/CaptioDev/RubiAI)](https://github.com/CaptioDev/RubiAI/issues?q=is%3Aissue+is%3Aclosed)
 [![Open pull requests](https://img.shields.io/github/issues-pr/CaptioDev/RubiAI)](https://github.com/CaptioDev/RubiAI/pulls)
-[![Code quality](https://img.shields.io/lgtm/grade/python/github/CaptioDev/RubiAI)](https://github.com/CaptioDev/RubiAI)
 [![Python version](https://img.shields.io/pypi/pyversions/CaptioDev/RubiAI)](https://github.com/CaptioDev/RubiAI)
 [![Downloads](https://img.shields.io/github/downloads/CaptioDev/RubiAI/total)](https://github.com/CaptioDev/RubiAI)
 [![Watchers](https://img.shields.io/github/watchers/CaptioDev/RubiAI)](https://github.com/CaptioDev/RubiAI/watchers)
-[![Branches](https://img.shields.io/github/branches/CaptioDev/RubiAI)](https://github.com/CaptioDev/RubiAI/branches)
 [![Release date](https://img.shields.io/github/release-date/CaptioDev/RubiAI)](https://github.com/CaptioDev/RubiAI/releases)
+
 
 
 
