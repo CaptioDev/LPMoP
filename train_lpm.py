@@ -2,6 +2,7 @@ import torch
 from transformers import GPT2Tokenizer, GPT2LMHeadModel
 from transformers import TextDataset, DataCollatorForLanguageModeling
 from transformers import Trainer, TrainingArguments
+import os
 
 # Load GPT-2 tokenizer and model
 tokenizer = GPT2Tokenizer.from_pretrained("gpt2")
@@ -40,3 +41,10 @@ trainer = Trainer(
 
 # Train the model
 trainer.train()
+
+# Create the 'lpmop' dir for saving the LPMoP trained model
+save_directory = os.path.join(os.path.dirname(__file__), 'lpmop')
+os.makedirs(save_directory, exist_ok=True)
+
+# Save the trained LPMoP model to 'lpmop'
+model.save_pretrained(save_directory)
