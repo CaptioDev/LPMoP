@@ -32,36 +32,73 @@ LPMoP is developed as part of PQAR (Plex Quantum-Atomic Research). It leverages 
 
 ## Installation
 
-To use LPMoP, follow these steps: (Python 3.12 and PIP are needed)
+To use LPMoP, follow these steps for Windows 8.1 and above:
 
-**THIS INSTALLATION DOESN'T WORK CURRENTLY AND IS DEPRECATED! PLEASE CHECK BACK SOON**
+1. Install Python 3.12
+   Go to https://www.python.org/downloads/ and find the download for your PC
 
-1. Clone the repository:
+2. Open cmd and execute:
+   ``` bash
+   pip
+   ```
 
-    ```bash
-    git clone https://github.com/CaptioDev/LPMoP.git
-    ```
+3. Execute:
+   ``` bash
+   cls
+   ```
 
-2. Install the required dependencies:
+4. Execute: (This will take a while)
+   ``` bash
+   pip install torch torchvision torchaudio
+   ```
 
-    ```bash
-    pip install -r requirements.txt
-    ```
+5. Execute:
+   ``` bash
+   pip install jupyter
+   ```
 
-3. Install Jupyter:
-
-    ```bash
-    pip install jupyter
-    ```
-
-4. Open a new Notebook:
-   ```bash
+6. Execute: (This will take a while for the first time only)
+   ``` bash
    jupyter notebook
    ```
 
-5. Import your files and run LPMoP.py with your prompt.
+7. Once in Jupyter Notebook, open a new console and run:
+   ``` bash
+   git clone https://github.com/CaptioDev/LPMoP.git
+   ```
 
-**THIS INSTALLATION DOESN'T WORK CURRENTLY AND IS DEPRECATED! PLEASE CHECK BACK SOON**
+8. Move all files from LPMoP to the main directory
+
+9. In Jupyter Console run:
+    ``` bash
+    pip install -r requirements.txt
+    ```
+
+10. Open a new Notebook
+
+11. In a new cell, run:
+``` bash
+from transformers import GPT2Tokenizer, GPT2LMHeadModel
+
+# Load the trained model and tokenizer
+model = GPT2LMHeadModel.from_pretrained("lpmop")
+tokenizer = GPT2Tokenizer.from_pretrained("lpmop")
+
+# Define a function to generate text based on a prompt
+def generate_text(prompt, max_length=200):
+    input_ids = tokenizer.encode(prompt, return_tensors="pt")
+    output = model.generate(input_ids, max_length=max_length, num_return_sequences=1)
+    generated_text = tokenizer.decode(output[0], skip_special_tokens=True)
+    return generated_text
+
+# Edit the user_input value to change your message prompt
+while True:
+    user_input = input(" ")
+    if user_input.lower() == "exit":
+        break
+    generated_text = generate_text(user_input, max_length=150)
+    print("LPMoP: ", generated_text)
+```
 
 ## Usage
 
