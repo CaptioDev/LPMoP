@@ -14,15 +14,11 @@
 
 
 
-# LPMoP
+# sNLPM
 
-(LPMoP stands for Language Proecessing Model of PQAR (Plex Quantum-Atomic Research))
+(sNLPM stands for small Natural Language Processing Model)
 
-LPMoP is a natural language processing model trained on the GPT-2 architecture of AI (artificial intelligence). It can generate human-like text based on the input it receives. LPMoP can also be reffered to as simply 'LPM'.
-
-## About
-
-LPMoP is developed as part of PQAR (Plex Quantum-Atomic Research). It leverages the power of the GPT-2 model to generate text that mimics human-like responses and conversations.
+sNLPM is a natural language processing model trained on the GPT-2 architecture of AI (artificial intelligence). It can generate human-like text based on the input it receives.
 
 ## Features
 
@@ -32,7 +28,7 @@ LPMoP is developed as part of PQAR (Plex Quantum-Atomic Research). It leverages 
 
 ## Installation
 
-To use LPMoP, follow these steps for Windows 8.1 and above:
+To use sNLPM, follow these steps for Windows 8.1 and above: (THIS IS NOT COMPLETE, PLEASE DO NOT FOLLOW INSTRTUCTIONS UNTIL COMPLETE)
 
 1. Install Python 3.12
    Go to https://www.python.org/downloads/ and find the download for your PC
@@ -102,7 +98,7 @@ while True:
 
 ## Usage
 
-LPMoP can be used for various purposes such as:
+sNLPM can be used for various purposes such as:
 
 - Generating text for creative writing projects.
 - Assisting in content generation for social media or blogs.
@@ -112,12 +108,12 @@ To generate text, simply provide LPMoP with a prompt and it will generate a resp
 
 ## Contributing
 
-If you'd like to contribute to LPMoP, feel free to fork the repository and submit a pull request with your changes. Please adhere to our license,
-and contact us for any other questions you might have at: pqar.contact@gmail.com.
+If you'd like to contribute to sNLPM, feel free to fork the repository and submit a pull request with your changes. Please adhere to our license,
+and contact us for any other questions you might have at: admin@pqar.net.
 
 ## License
 
-LPMoP © 2024 by PQAR is licensed under CC BY-SA 4.0 - see the [LICENSE](LICENSE) file for details.
+sNLPM is licensed under CC BY-SA 4.0 - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
