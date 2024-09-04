@@ -6,7 +6,6 @@
 [![Closed issues](https://img.shields.io/github/issues-closed/CaptioDev/LPMoP)](https://github.com/CaptioDev/LPMoP/issues?q=is%3Aissue+is%3Aclosed)
 [![Open pull requests](https://img.shields.io/github/issues-pr/CaptioDev/LPMoP)](https://github.com/CaptioDev/LPMoP/pulls)
 [![Watchers](https://img.shields.io/github/watchers/CaptioDev/LPMoP)](https://github.com/CaptioDev/LPMoP/watchers)
-[![Release date](https://img.shields.io/github/release-date/CaptioDev/LPMoP)](https://github.com/CaptioDev/LPMoP/releases)
 
 
 
